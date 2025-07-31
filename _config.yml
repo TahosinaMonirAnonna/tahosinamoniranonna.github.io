@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Kazi Amit Hasan"
+title                    : "Tahosina Monir"
 title_separator          : "-"
-name                     : &name "Kazi Amit Hasan"
+name                     : &name "Tahosina Monir"
 description              : &description "Fast Track PhD Student at Queen's University"
-url                      : https://kaziamithasan.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://tahosinamoniranonna.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "kaziamithasan/kaziamithasan.github.io"
+repository               : "tahosinamoniranonna/tahosinamoniranonna.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Kazi Amit Hasan"
+  name             : "Tahosina Monir"
   avatar           : "shuvo.jpg"
   bio              : "Fast Track PhD Student in School of Computing at Queen's University | Ex-ML Engineer at ACI Limited"
-  location         : "Kingston, Ontario, Canada"
+  location         : "Toronto, Ontario, Canada"
   employer         : "Queen's University"
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=t9ko5DMAAAAJ&hl=en"
-  email            : "kaziamit[dot]hasan[at]queensu.ca"
+  email            : "tahosina[dot]anna[at]gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "KaziAmitHasan"
+  github           : "TahosinaMonirAnonna"
   google_plus      :
   keybase          :
   instagram        :
