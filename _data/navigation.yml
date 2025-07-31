@@ -1,0 +1,23 @@
+# main links links
+main:
+  - title: "Publications"
+    url: /publications/
+  
+  - title: "Developed Artifacts for SE"
+    url: /research/
+      
+  - title: "Experience"
+    url: /experiences/
+
+  - title: "Teaching & Services"
+    url: /teaching/
+
+  # - title: "Developed Artifacts for SE"
+  #   url: /services/
+
+  - title: "Awards"
+    url: /awards/
+
+  - title: "CV"
+    url: /files/CV.pdf    
+
